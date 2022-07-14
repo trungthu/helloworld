@@ -1,4 +1,4 @@
-module main
+module github.com/trungthu/helloworld
 
 go 1.18
 
